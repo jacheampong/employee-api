@@ -1,4 +1,4 @@
-package com.ja.dev.legostore;
+package com.ja.dev.employeeapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.ja.dev.legostore.entities;
+package com.ja.dev.employeeapi.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
