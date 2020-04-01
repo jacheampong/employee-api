@@ -17,6 +17,14 @@ public class Employee {
 	public Long getId() {
 		return id;
 	}
+	
+	/**
+	 * getResourceId - used to expose field Id
+	 * @return
+	 */
+	public Long getResourceId() {
+		return id;
+	}
 
 	public void setId(Long id) {
 		this.id = id;
